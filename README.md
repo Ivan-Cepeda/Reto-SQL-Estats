@@ -19,7 +19,7 @@ para luego responder algunas preguntas utilizando distintos tipos de consultas.
 	*	¿Cuál es la cantidad de vehículos/modelo por tipo de combustible?
  	*	¿Qué tipo de combustible usa el vehículo con menor precio?
   	*	Construya 3 KPI basado en Margen, Kms, tipo de venta.
-   	*	La probabilidad de que 2 clientes compren un carro de la misma marca y año
+   	*	La probabilidad de que 2 clientes compren un carro de la misma marca y año.
    	*	Calcule la probabilidad de que 2 modelos de vehículos diferentes, de la misma marca, usen distintos tipos de combustible.
    	*	Calcule la cantidad de combinaciones de modelos, marcas, tipos de transmisión y combustible por año.
 
